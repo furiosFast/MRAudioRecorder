@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+ MRAudioRecorder
+
+  Created by Marco Ricca on 13/03/23.
+  
+*/
+
+"NSMicrophoneUsageDescription" = "Microphone access is needed to create recordings";

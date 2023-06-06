@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+ MRAudioRecorder
+
+  Created by Marco Ricca on 13/03/23.
+  
+*/
+
+"YUOR_RECORDINGS" = "Le tue registrazioni";
+"RECORDING" = "Registrando...";
+"NO_RECENT_RECORDING_TITLE" = "Nessuna registrazione";
+"NO_RECENT_RECORDING_MESSAGE" = "Tutte le tue registrazioni appariranno qui.";
+"WARNING" = "Attenzione";
+"CANCEL" = "Annulla";
+"OK" = "OK";
+"ALERT_DELETE_RECORDING" = "Sei sicuro di voler cancellare la registrazione?";
+"MICROPHONE_PERMS_DENIED" = "L'accesso al microfono è necessario al fine di poter creare registrazioni audio";
+"RENAME" = "Rinomina";
+"ALERT_RENAME_RECORDING" = "Vuoi rinominare la registrazione selezionata?";
+"ENTER_FILENAME" = "Nome registrazione...";
